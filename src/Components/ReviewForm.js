@@ -132,18 +132,18 @@ const ReviewForm = (props) => {
           <input
             onChange={props.handleChange}
             type="text"
-            name="title"
-            placeholder="Review Title"
-            props={props.review.headline}
+            name="author"
+            placeholder="Author"
+            props={props.review.author}
           />
         </Field>
         <Field>
           <input
             onChange={props.handleChange}
             type="text"
-            name="author"
-            placeholder="Author"
-            props={props.review.author}
+            name="headline"
+            placeholder="Add Headline"
+            props={props.review.headline}
           />
         </Field>
         <Field>
