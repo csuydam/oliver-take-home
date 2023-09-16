@@ -24,14 +24,14 @@
       "star_rating": 5,
       "headline": "I love this product!",
       "body": "This sofa has completely changed my life. The delivery process couldn't have been easier. I want to sing about Oliver Space from the rooftops!",
-      "productId": "0"
+      "productId": 0
     },
     {
       "author": "new",
       "star_rating": 5,
       "headline": "Love it",
       "body": "Would rent this dining room table one hundred times over.",
-      "productId": "0",
+      "productId": 0,
       "id": 2
     }
   ]
